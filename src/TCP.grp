@@ -1,0 +1,9 @@
+<!DOCTYPE TITAN_GUI_FileGroup_file>
+<FileGroup TITAN_version="1.8.pl2" >
+    <File_Group name="TCP" >
+        <File path="TCPasp_PT.cc" />
+        <File path="TCPasp_PT.hh" />
+        <File path="TCPasp_PortType.ttcn" />
+        <File path="TCPasp_Types.ttcn" />
+    </File_Group>
+</FileGroup>
