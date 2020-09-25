@@ -1,0 +1,20 @@
+10:28:50.553000 - TTCN-3 Test Executor started in single mode. Version: CRL 113 200/6 R6A .
+10:28:50.595000 - TTCN Logger v2.2 options: TimeStampFormat:=Time; LogEntityName:=No; LogEventTypes:=No;SourceInfoFormat:=Single; *.FileMask:=LOG_ALL; *.ConsoleMask:=ACTION | ERROR | TESTCASE | STATISTICS_VERDICT | STATISTICS_UNQUALIFIED | USER | WARNING;LogFileSize:=0; LogFileNumber:=1; DiskFullAction:=Error
+10:28:50.596000 - Initializing module PreGenRecordOf.
+10:28:50.598000 - Initializing module PreGenRecordOf finished.
+10:28:50.598000 - Initializing module TitanLoggerApi.
+10:28:50.598000 - Initializing module TitanLoggerApi finished.
+10:28:50.598000 - Initializing module TCPasp_Port_API.
+10:28:50.598000 - Initializing module TCPasp_Port_API finished.
+10:28:50.599000 - Initializing module tcptest.
+10:28:50.599000 - Initializing module TCPasp_Types.
+10:28:50.599000 - Initializing module TCPasp_Types finished.
+10:28:50.599000 - Initializing module TCPasp_PortType.
+10:28:50.599000 - Initializing module TCPasp_PortType finished.
+10:28:50.599000 - Initializing module tcptest finished.
+10:28:50.601000 - Dynamic test case error: Module PreGenRecordOf does not have control part.
+10:28:50.614000 - Performing error recovery.
+10:28:50.618000 - Verdict statistics: 0 none, 0 pass, 0 inconc, 0 fail, 0 error.
+10:28:50.632000 - Number of errors outside test cases: 1
+10:28:50.633000 - Test execution summary: 0 test case was executed. Overall verdict: error
+10:28:50.633000 - TTCN-3 Test Executor finished in single mode.
